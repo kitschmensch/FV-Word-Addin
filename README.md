@@ -15,4 +15,11 @@ Download `MergeFieldAssistant.dotm` to your computer and copy to your MS Word St
 5. Place `MergeFieldAssistant.dotm` in the selected Startup folder.
 6. Restart Word
 
+### Window
+
+1. Open Start Menu and search for "Run"
+2. Enter "C:\Users\[User name]\AppData\Roaming\Microsoft\Word\STARTUP", replacing [User name] with your Windows username
+3. The file explorer with your STARTUP folder will open. Copy the `MergefieldAssistant.dotm` file to the STARTUP folder
+4. Restart Word
+
 
