@@ -1,6 +1,8 @@
 # FV-Word-Addin
 
-A simple macro Userform that assists users with adding conditional codes and address blocks to Filevine DocGen, report, and Filevine Fusion templates. 
+A simple macro Userform that assists users with adding conditional codes and address blocks to Filevine DocGen, report, and Filevine Fusion templates.
+
+*This utility is user-made and has no relationshipt with Filevine, Inc.*
 
 ## Installation
 
