@@ -2,7 +2,7 @@
 
 A simple macro Userform that assists users with adding conditional codes and address blocks to Filevine DocGen, report, and Filevine Fusion templates.
 
-*This utility is user-made and has no relationshipt with Filevine, Inc.*
+*This utility is user-made and has no relationship with Filevine, Inc.*
 
 ## Installation
 
