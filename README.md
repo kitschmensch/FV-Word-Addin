@@ -24,4 +24,6 @@ Download `MergeFieldAssistant.dotm` to your computer and copy to your MS Word St
 3. The file explorer with your STARTUP folder will open. Copy the `MergefieldAssistant.dotm` file to the STARTUP folder
 4. Restart Word
 
+If the tool does not appear in your ribbon after following these instructions, check your macro security preferences to make sure that "Enable all macros" is enabled.
+
 
