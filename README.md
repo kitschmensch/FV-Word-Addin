@@ -4,6 +4,9 @@ A simple macro Userform that assists users with adding conditional codes and add
 
 *This utility is user-made and has no relationship with Filevine, Inc.*
 
+## UPDATE: MergefieldAssistantv2
+- Now with the ability to type capital "A"
+
 ## Installation
 
 Download `MergeFieldAssistant.dotm` to your computer and copy to your MS Word Startup folder.
